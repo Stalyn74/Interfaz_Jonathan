@@ -1,0 +1,70 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+.grid-container1 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(4rem, 1fr)); 
+  grid-template-rows: repeat(auto-fill, minmax(4rem, 1fr));    
+  gap: 1rem;
+}
+
+
+
+.grid-item1 {
+  width: 4rem;
+  height: 4rem;
+  border: 2px solid rgb(81, 80, 80); 
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(5rem, 1fr)); 
+  grid-template-rows: repeat(auto-fill, minmax(5rem, 1fr));    
+  gap: 2rem;
+}
+
+
+
+.grid-item2 {
+  width: 5rem;
+  height: 5rem;
+  border: 2px solid rgb(81, 80, 80); 
+}
+
+.grid-container3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(6rem, 1fr)); 
+  grid-template-rows: repeat(auto-fill, minmax(6rem, 1fr));    
+  gap: 3rem;
+}
+
+
+
+.grid-item3 {
+  width: 6rem;
+  height: 6rem;
+  border: 2px solid rgb(81, 80, 80); 
+}
+
+.grid-container4 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr)); 
+  grid-template-rows: repeat(auto-fill, minmax(7rem, 1fr));    
+  gap: 4rem;
+}
+
+
+
+.grid-item4 {
+  width: 7rem;
+  height: 7rem;
+  border: 2px solid rgb(81, 80, 80); 
+}
