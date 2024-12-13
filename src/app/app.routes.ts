@@ -1,6 +1,6 @@
 import { bootstrapApplication, BrowserModule } from '@angular/platform-browser';
 import { provideRouter, Routes } from '@angular/router';
-import { CASAComponent } from './CASA/casa.component';
+import { CASAComponent } from './Home/casa.component';
 import { Deber1Component } from './Deber1/Deber1.component';
 import { Deber2Component } from './Deber2/Deber2.component';
 import { Deber3Component } from './Deber3/Deber3.component';

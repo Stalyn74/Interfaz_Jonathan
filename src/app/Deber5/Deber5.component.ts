@@ -9,40 +9,40 @@ export class Deber5Component {
   // Propiedad de productos
   products = [
     { 
-      name: 'MESSI 1', 
+      name: 'Top 1 Ventas', 
       price: 100, 
       inventoryStatus: 'In Stock', 
-      image: 'https://img2.rtve.es/v/6753970?w=1600&preview=1670619705279.jpg'
+      image: 'https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/552520/capsule_616x353.jpg?t=1694554810'
     },
     { 
-      name: 'MESSI 2', 
+      name: 'Top 2 Ventas', 
       price: 150, 
       inventoryStatus: 'Out of Stock', 
-      image: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-11/Lionel%20Messi%20Inter%20Miami%202024.jpg?h=3e124502&itok=-Z8iPV_k'
+      image: 'https://image.api.playstation.com/vulcan/ap/rnd/202206/0311/cp7G7TILGKzAzLGb1MMn9hyt.jpg'
     },
     { 
-      name: 'MESSI 3', 
+      name: 'Top 3 Ventas', 
       price: 200, 
       inventoryStatus: 'In Stock', 
-      image: 'https://ocdn.eu/sport-images-transforms/1/bLZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOTc4ZTFkYzk1ODQzODFjYTM1ZmMzNmQ2YWY4NmQ2MS5qcGeTlQMAAM0Imc0E15UCzQOwAMLDkwmmODAzMDVhBt4AAqEwBqExAQ/leo-messi.avif'
+      image: 'https://www.desconsolados.com/wp-content/uploads/2014/02/Outlast1376438305_1380640487.jpg'
     },
     { 
-      name: 'MESSI 4', 
+      name: 'Top 4 Ventas', 
       price: 100, 
       inventoryStatus: 'In Stock', 
-      image: 'https://s7d2.scene7.com/is/image/TWCNews/lionel_messi_AP23239056067210_ca_0904?wid=1250&hei=703&$wide-bg$'
+      image: 'https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262540/capsule_616x353.jpg?t=1716834386'
     },
     { 
-      name: 'MESSI 5', 
+      name: 'Top 5 Ventas', 
       price: 100, 
       inventoryStatus: 'In Stock', 
-      image: 'https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-10/nba-plain--3a138067-ca08-4634-983f-43dc2d3dd29b.png?h=920929c4&itok=N6-zrn8W'
+      image: 'https://image.api.playstation.com/vulcan/ap/rnd/202303/0116/90966f8c33926d1ffd144b560322873f9435f480d29606d8.jpg'
     },
     { 
-      name: 'MESSI 6', 
+      name: 'Top 6 Ventas', 
       price: 100, 
       inventoryStatus: 'In Stock', 
-      image: 'https://www.directvsports.com/__export/1721236790735/sites/dsports/img/2024/07/17/messi_maximo_ganador.jpg_1309147466.jpg'
+      image: 'https://pbs.twimg.com/media/Eu6wiobXAAIgZ-S.jpg:large'
     },
 
 
